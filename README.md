@@ -51,11 +51,6 @@ This portfolio showcases my projects, skills, and contributions across data, bus
 
 ---
 
-## 🔹 Resume
-📄 [Download Resume](./resume.pdf)
-
----
-
 ## 🔹 Contact
 - 📧 Email: [mayumule11@gmail.com](mailto:your-email@example.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/mayuri-mule](https://www.linkedin.com/in/mayuri-mule)  
