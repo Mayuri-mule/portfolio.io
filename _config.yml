@@ -1,0 +1,40 @@
+# Site settings
+title: "Mayuri Mule"
+description: "Business Analyst & Data Analyst | Business Intelligence | Data Visualization | SQL | Power BI"
+url: "https://Mayuri-mule/portfolio.io"   # Your GitHub Pages site URL
+baseurl: ""   # Leave blank for user/organization site
+
+# Author settings
+author:
+  name: "Mayuri Mule"
+  email: "mayumule11@gmail.com"
+  linkedin: "https://www.linkedin.com/in/mayuri-mule"
+  github: "https://github.com/Mayuri-mule"
+  resume: "/resume.pdf"   # upload resume.pdf in repo root
+
+# Theme (simple Jekyll theme for clean portfolio)
+theme: jekyll-theme-cayman
+
+
+
+# Projects (showcase BA/Data Analyst work)
+projects:
+   - name: "Customer Churn Prediction"
+    description: "Analyzed churn to helps businesses understand why customers leave and how to improve retention"
+
+  - name: "Fleet Risk Management & Driver Behavior Analysis"
+    description: "Analyzed geolocation & vehicle data using Hadoop (Hive, Pig, HDFS) and visualized insights in Power BI."
+    
+
+  - name: "Bike Sales Dashboard (Europe Region)"
+    description: "Excel dashboard with pivot tables & formulas to provide data-driven sales insights."
+   
+
+  - name: "Automotive Digital Dashboard Testing"
+    description: "Worked on widget functionality, GPS, music integration, phone settings, and prototype validation."
+    
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
